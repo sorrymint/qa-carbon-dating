@@ -2,7 +2,7 @@ import java.text.DecimalFormat;
 
 public class Carbon14Dating {
     private double remainingAmount;
-    private double age;
+    private double age; //This is the change
 
     public static final double HALF_LIFE = 5730;
 
